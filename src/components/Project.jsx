@@ -29,7 +29,7 @@ const Project = () => {
             title: "Portfolio",
             desc: " Built with React on the frontend, styling using the Shadcn library and Tailwind CSS. State management is handled by the Zustand library. React Query is used for efficient data fetching. The backend is powered by Node.js and Express.js. File uploads are managed with Cloudinary, and MongoDB is used for the database",
             img: pscreen,
-            subHeading: "Personel portfolio",
+            subHeading: "Personal portfolio",
             href: "https://sudipmahata.com/",
             code: "https://github.com/SudipMahata-github/Portfolio/tree/master"
         },
