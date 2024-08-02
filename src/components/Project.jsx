@@ -15,7 +15,7 @@ const Project = () => {
             img: "https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             subHeading: "Blog website",
             href: null,
-            code: "https://github.com/SudipMahata-github/admin-dashboard"
+            code: "https://github.com/SudipMahata-github/admin-dashboard-nextjs14"
         },
         {
             title: "Food Recipe App",
@@ -31,7 +31,7 @@ const Project = () => {
             img: pscreen,
             subHeading: "Personel portfolio",
             href: "https://sudipmahata.com/",
-            code: "https://github.com/SudipMahata-github/portfolio"
+            code: "https://github.com/SudipMahata-github/Portfolio/tree/master"
         },
         {
             title: "Random Colour Genaretor",
